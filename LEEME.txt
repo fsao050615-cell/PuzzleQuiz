@@ -1,0 +1,5 @@
+1. Crea una cuenta gratis en github.com y un repositorio nuevo.
+2. Sube TODO el contenido de esta carpeta (incluida la carpeta oculta .github).
+3. Ve a la pestaña Actions -> "Build APK" y espera ~5 min.
+4. Entra en la ejecucion terminada y descarga "PuzzleQuiz-apk" (zip con app-debug.apk).
+5. Pasa el .apk al movil, abrelo y permite "instalar apps desconocidas".
